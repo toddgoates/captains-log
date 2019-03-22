@@ -1,5 +1,9 @@
 # captains-log
 
+[![CodeFactor](https://www.codefactor.io/repository/github/toddgoates/captains-log/badge)](https://www.codefactor.io/repository/github/toddgoates/captains-log)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b875d253-15ba-4686-95ba-bee78ebb6d3f/deploy-status)](https://app.netlify.com/sites/romantic-swirles-43dc72/deploys)
+
 Create your own Captain's Log in your browser with the HTML5 Speech Recognition API
 
 ## Notes
