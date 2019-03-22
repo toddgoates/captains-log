@@ -19,13 +19,6 @@ recognition.addEventListener("result", e => {
     p = document.createElement("p");
     words.appendChild(p);
   }
-
-  /*
-    // Do something with with a specific phrase...
-    if (transcript.includes('get the weather')) {
-      console.log('Getting weather with API');
-    }
-  */
 });
 
 recognition.addEventListener("end", recognition.start);
